@@ -171,3 +171,4 @@ SafeHome AI is designed as a full-stack smart-home prototype. Real camera stream
 Add your chosen open-source license before publishing the project publicly.
 # SafeHome-AI-
 # SafeHome-AI-
+# SafeHome-AI-
